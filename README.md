@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isabellin27
-- 👀 I’m a junior at Northwestern University studying economics, computer science, and data science
+- 👀 I’m a senior at Northwestern University studying economics, data science, and environmental policy
 - 📫 Reach me at isabellin2026@u.northwestern.edu
 <!---
 isabellin27/isabellin27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
