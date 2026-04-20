@@ -15,7 +15,7 @@ Always learning. Always iterating. Always open to connecting.
 
 Let’s connect: isabellin2026@u.northwestern.edu
 
-Personal Website: https://isabellin.vercel.app/#experience
+Personal Website: https://isabellin.vercel.app
 <!---
 isabellin27/isabellin27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
