@@ -14,6 +14,7 @@ Fluent in Mandarin | Python, Java, HTML | Carnegie Hall & Presidential Volunteer
 Always learning. Always iterating. Always open to connecting.
 
 Let’s connect: isabellin2026@u.northwestern.edu
+
 Personal Website: https://isabellin.vercel.app/#experience
 <!---
 isabellin27/isabellin27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
